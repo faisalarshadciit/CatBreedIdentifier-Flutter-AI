@@ -1,4 +1,5 @@
-# cat_breed_identifier_app
+# Cat Breed Identifier - Flutter AI
+
 
 A new Flutter project.
 
